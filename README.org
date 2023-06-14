@@ -1,6 +1,6 @@
 * yah
 
-
+Yet Another Heap
 
 |---------+------------------------------------------|
 | source  | git:https://gitlab.com/Aksej/yah.git     |
