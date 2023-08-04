@@ -2,8 +2,8 @@
 
 Yet Another Heap
 
-|---------+------------------------------------------|
-| source  | git:https://gitlab.com/Aksej/yah.git     |
-| commit  | f4a911fd9fc81e29c8dd819ecf56fd1468d2f865 |
-| systems | yah                                      |
-|---------+------------------------------------------|
+|---------+--------------------------------------|
+| source  | git:https://gitlab.com/Aksej/yah.git |
+| commit  | a4ee159                              |
+| systems | yah                                  |
+|---------+--------------------------------------|
